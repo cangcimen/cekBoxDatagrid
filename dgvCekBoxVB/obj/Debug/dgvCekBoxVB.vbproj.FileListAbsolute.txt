@@ -1,0 +1,10 @@
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\bin\Debug\dgvCekBoxVB.exe
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\bin\Debug\dgvCekBoxVB.pdb
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\bin\Debug\dgvCekBoxVB.xml
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.Form1.resources
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.Resources.resources
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.vbproj.GenerateResource.Cache
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.exe
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.xml
+C:\Users\gege\Documents\WEBMEDIA\VB Sample\dgvCekBoxVB\dgvCekBoxVB\obj\Debug\dgvCekBoxVB.pdb
